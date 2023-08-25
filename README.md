@@ -1,7 +1,7 @@
 # HiltComposeApp
 Android-Compose-Hilt-Retrofit-Coroutines-Coil-KotlinDSL
 
-This is a demo application built with compose and retrofit.
+This is a demo application built with compose app.
 
 # Library reference resources:
 
